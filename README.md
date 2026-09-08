@@ -33,7 +33,7 @@ This project is a machine learning-based car price prediction tool that estimate
 
 ## Demonstration
 
-![Car Price Predictor Demo](<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/b43d59fc-d138-4730-b9eb-67f922328c6a" />)
+![demo](https://github.com/user-attachments/assets/your-unique-link-here)
 
 *The GIF above demonstrates the interactive `ipywidgets` UI in action. It showcases selecting car attributes, the built-in validation preventing impossible feature combinations, the final predicted price estimate, and the dynamically generated Seaborn trend plots.*
 
