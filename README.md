@@ -31,6 +31,12 @@ This project is a machine learning-based car price prediction tool that estimate
 
 > Make sure the dataset file `CAR DETAILS FROM CAR DEKHO.csv` is in the same directory as the notebook (or uploaded to `/content/` if running in Google Colab).
 
+## Demonstration
+
+![Car Price Predictor Demo](assets/demo.gif)
+
+*The GIF above demonstrates the interactive `ipywidgets` UI in action. It showcases selecting car attributes, the built-in validation preventing impossible feature combinations, the final predicted price estimate, and the dynamically generated Seaborn trend plots.*
+
 ## Dataset Source
 
 - Original dataset: [Kaggle – Car Dekho Dataset](https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho)
